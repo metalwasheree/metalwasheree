@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @metalwasheree
+- 👀 I’m interested in learninh how to be a coder
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on creating new projects 
+- 📫 How to reach me: you can send me a message in my email: metalwashere@gmail.com
